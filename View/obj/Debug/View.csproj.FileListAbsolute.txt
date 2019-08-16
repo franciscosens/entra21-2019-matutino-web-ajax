@@ -1,0 +1,255 @@
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\View.dll.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\View.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\View.pdb
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csc.exe
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csc.exe.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csc.rsp
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csi.exe
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csi.exe.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\csi.rsp
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.Managed.Core.targets
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.AppContext.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Collections.Immutable.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Console.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.IO.Compression.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.IO.FileSystem.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.IO.Pipes.AccessControl.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.IO.Pipes.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Reflection.Metadata.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.AccessControl.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Claims.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Security.Principal.Windows.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.ValueTuple.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Xml.XmlDocument.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Xml.XPath.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\vbc.exe
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\vbc.exe.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\vbc.rsp
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\VBCSCompiler.exe
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\roslyn\VBCSCompiler.exe.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\EntityFramework.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\EntityFramework.SqlServer.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Microsoft.Web.Infrastructure.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Model.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Repository.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Helpers.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Mvc.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Razor.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.Deployment.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.Razor.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Model.pdb
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Model.dll.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Repository.pdb
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Repository.dll.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\EntityFramework.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\EntityFramework.SqlServer.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Razor.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.Deployment.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Webpages.Razor.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Helpers.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\System.Web.Mvc.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Razor.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Webpages.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Helpers.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\bin\pt-br\System.Web.Mvc.resources.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\obj\Debug\View.csprojAssemblyReference.cache
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\obj\Debug\View.csproj.CopyComplete
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\obj\Debug\View.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\View\obj\Debug\View.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\View.dll.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\View.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\View.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csc.exe
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csc.exe.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csc.rsp
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csi.exe
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csi.exe.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\csi.rsp
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.AppContext.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Console.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\vbc.exe
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\vbc.exe.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\vbc.rsp
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\EntityFramework.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\EntityFramework.SqlServer.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Model.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Repository.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Helpers.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Mvc.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Razor.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Model.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Model.dll.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Repository.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Repository.dll.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\EntityFramework.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\EntityFramework.SqlServer.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Razor.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Helpers.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\System.Web.Mvc.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\obj\Debug\View.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\View\obj\Debug\View.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\View.dll.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\View.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\View.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csc.exe
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csc.exe.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csc.rsp
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csi.exe
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csi.exe.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\csi.rsp
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.AppContext.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Console.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\vbc.exe
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\vbc.exe.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\vbc.rsp
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\EntityFramework.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\EntityFramework.SqlServer.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Model.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Repository.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Helpers.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Mvc.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Razor.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Model.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Model.dll.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Repository.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Repository.dll.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\EntityFramework.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\EntityFramework.SqlServer.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Razor.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Helpers.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\System.Web.Mvc.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\obj\Debug\View.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\View\obj\Debug\View.pdb

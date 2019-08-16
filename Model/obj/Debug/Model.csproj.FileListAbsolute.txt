@@ -1,0 +1,36 @@
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\Model.dll.config
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\Model.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\Model.pdb
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\EntityFramework.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\EntityFramework.SqlServer.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\EntityFramework.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\bin\Debug\EntityFramework.SqlServer.xml
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\obj\Debug\Model.csprojAssemblyReference.cache
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\obj\Debug\Model.csproj.CopyComplete
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\obj\Debug\Model.dll
+X:\Luan Zwang\ExemploAjax07.08.19\ExemploAjax\Model\obj\Debug\Model.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\Model.dll.config
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\Model.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\Model.pdb
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\EntityFramework.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\EntityFramework.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\obj\Debug\Model.dll
+C:\Users\Alunos\Desktop\ExemploAjax2.0-master\Model\obj\Debug\Model.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\Model.dll.config
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\Model.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\Model.pdb
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\EntityFramework.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\EntityFramework.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\obj\Debug\Model.dll
+C:\Users\Alunos\entra21-2019-matutino-web-ajax\Model\obj\Debug\Model.pdb
